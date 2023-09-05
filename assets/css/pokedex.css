@@ -70,6 +70,10 @@
   background-color: #F9AEC7;
 }
 
+h1 {
+  text-align: center;
+}
+
 .pokemons {
   list-style: none;
   padding: 0;
