@@ -1,6 +1,6 @@
 const pokemonOl = document.querySelector(".pokemons");
 const loadMoreButton = document.querySelector("#loadMoreButton");
-const limit = 5;
+const limit = 10;
 let offset = 0;
 
 function convertPokemonToLi(pokemon) {
